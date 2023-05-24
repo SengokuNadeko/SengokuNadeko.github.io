@@ -302,7 +302,7 @@
     }
 
     .main_content h1{
-        font-size: 2.5rem;
+        font-size: 1.5rem;
         margin-top: 2rem;
     }
 
@@ -314,13 +314,13 @@
 
 @media screen and (max-width: 480px) {
     .main_content h1{
-        font-size: 2rem;
+        font-size: 1rem;
         margin-top: 3rem;
     }
 
     .main_container p{
         margin-top: 2rem;
-        font-size: 1.5rem;
+        font-size: 1em;
     }
 
     .main_btn{
